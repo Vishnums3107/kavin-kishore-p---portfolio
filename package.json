@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://<your-username>.github.io/kavin-kishore-p---portfolio",
+  "homepage": "https://Vishnums3107.github.io/kavin-kishore-p---portfolio",
   "dependencies": {
     "@google/genai": "^1.29.0",
     "@tailwindcss/vite": "^4.1.14",
